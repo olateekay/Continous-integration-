@@ -6,4 +6,4 @@ The problem with that approach is, it would be difficult to package and version 
 
 Target end to end CI/CD pipeline is represented by the diagram below.
 
-![alt text](image1.png)
+![alt text](https://github.com/olateekay/Continous-integration-/blob/main/Images/image1.png)
