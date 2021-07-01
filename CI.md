@@ -6,6 +6,7 @@ The problem with that approach is, it would be difficult to package and version 
 
 Target end to end CI/CD pipeline is represented by the diagram below.
 
+<<<<<<< HEAD
 ![alt text](image1.png)
 
 
@@ -28,3 +29,6 @@ Throughout this project, tests will be carried out.
 - `Pentest` - Penetration testing. 
    
    `PENTEST` is where we will conduct security related tests, so some other tools and specific configurations will be needed. In some cases, it will also be used for Performance and Load testing. Otherwise, that can also be a separate environment on its own. It all depends on decisions made by the company and the team running the show.
+=======
+![alt text](https://github.com/olateekay/Continous-integration-/blob/main/Images/image1.png)
+>>>>>>> 78cb858e275e40758f6da5e5efcaf7e52e89f479
