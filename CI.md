@@ -6,29 +6,4 @@ The problem with that approach is, it would be difficult to package and version 
 
 Target end to end CI/CD pipeline is represented by the diagram below.
 
-<<<<<<< HEAD
-![alt text](image1.png)
-
-
-## Set Up
-
-This project will require a lot of servers to simulate all the different environments from `dev/ci` all the way to `production`
-
-To get started, we will focus on these environments initially.
-
-- Ci
-- Dev
-- Pentest
-
-Throughout this project, tests will be carried out.
-
-- `SIT` - System Integration Testing 
-- `UAT` - User Acceptance Testing 
-
-   NB: `SIT` and `UAT` do not require a lot of extra installation or configuration. They are basically the webservers holding our applications. 
-- `Pentest` - Penetration testing. 
-   
-   `PENTEST` is where we will conduct security related tests, so some other tools and specific configurations will be needed. In some cases, it will also be used for Performance and Load testing. Otherwise, that can also be a separate environment on its own. It all depends on decisions made by the company and the team running the show.
-=======
 ![alt text](https://github.com/olateekay/Continous-integration-/blob/main/Images/image1.png)
->>>>>>> 78cb858e275e40758f6da5e5efcaf7e52e89f479
